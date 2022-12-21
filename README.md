@@ -1,6 +1,6 @@
 *Persona helps companies of all sizes verify users and automate any identity-related use case.*
 
-[Docs](https://docs.withpersona.com/docs) | [Slack](withpersona-dev.slack.com) | [Twitter](https://twitter.com/persona_idv) | [Blog](https://withpersona.com/blog) | [Contact](https://withpersona.com/contact)
+[Docs](https://docs.withpersona.com/docs) | [Slack](https://withpersona-dev.slack.com) | [Twitter](https://twitter.com/persona_idv) | [Blog](https://withpersona.com/blog) | [Contact](https://withpersona.com/contact)
 
 ## About Persona
 Configurable identity infrastructure for KYC, AML, KYB, fraud detection, onboarding, and more.
@@ -43,8 +43,8 @@ There are many ways you can engage with Persona's Community:
 - Follow us on [Twitter](https://twitter.com/persona_idv).
 - Give us a review on [Product Hunt](https://www.producthunt.com/products/persona-4)
 - Create issues every time you feel something is missing or goes wrong
-- For anything else, Ed is our Community Lead on ed@withpersona.com
+- For anything else, Ed is our Community Lead on [ed@withpersona.com](mailto:ed@withpersona.com?CC=startups@withpersona.com&Subject=Hey%21)
 
-*If you would like to contribute to the development of the project please reach out on [Slack](withpersona-dev.slack.com)*
+*If you would like to contribute to the development of the project please reach out on [Slack](https://withpersona-dev.slack.com)*
 
 All contributions are highly appreciated. 🙏
