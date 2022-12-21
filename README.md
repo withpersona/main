@@ -1,18 +1,50 @@
-**Welcome to Persona!
-**
+*Persona helps companies of all sizes verify users and automate any identity-related use case.*
 
-Persona provides a powerful, secure platform to help organizations collect, verify, store, and analyze the identity of any individual in the world. A frontend, conversion-optimized user interface makes it easy to start verifying identities in minutes.
+[Docs](https://docs.withpersona.com/docs) | [Slack](withpersona-dev.slack.com) | [Twitter](https://twitter.com/persona_idv) | [Blog](https://withpersona.com/blog) | [Contact](https://withpersona.com/contact)
 
-With Persona, you configure a template to specify which verifications an individual needs to complete through the frontend flow. As individuals progress through the template, they submit the required information to be verified, such as a government ID, and create a verification . Each time an individual attempts to complete the set of verifications specified by a template, they create an inquiry, which contains the information collected from the submitted verifications, the results of those verifications, and passively-collected contextual data like IP address that can be used to identify suspicious activity. Once an individual completes an inquiry, you can use the verified information to run an additional report such as a global watchlist or sanctions check on the individual.
+## About Persona
+Configurable identity infrastructure for KYC, AML, KYB, fraud detection, onboarding, and more.
 
-Here you’ll find comprehensive information for integrating with Persona and our API endpoints. We’ve tried to make this documentation user-friendly and example-filled.
+![alt text](https://assets.website-files.com/6320c9d25c243e328157e175/6356f9539082999e9e3b4651_5fd7ff62d939619a1cb78308_free-identity-verification-hero.png)
 
-If you’re planning to use our API in Production, please refer to the API Reference for detailed instructions on how to use the API, and our Privacy Policy to understand how to handle the data.
+### ✨ Features
 
-The most comprehensive way to integrate Persona is to setup an Embedded Flow for web or integrate with one of our Mobile SDKs, and the fastest way without any code is to setup a Hosted Flow.
+- **Verify users your way**
+Tailor how you want to verify each customer and use case. Choose from a robust library of verification methods, from verifying physical and digital documents to biometric and database verifications.
 
-<a href="https://docs.withpersona.com/reference/introduction">API reference</a></br>
-<a href="https://docs.withpersona.com/docs/embedded-flow">Embedded Flow</a>
+- **Orchestrate user identity**
+Automate all your identity processes within Persona. Follow up with users, update systems of records, and more — all without heavy engineering or operational resources.
 
-Questions?
-We're always happy to help with code or other questions you might have! Search our documentation, contact us on support@withpersona.com or startups@withpersona.com 
+- **Securely control and manage PII**
+Securely store PII to your requirements with Persona. Your data is yours to own and configure — you have full control over redaction policies, access controls, and how you use the data to support and reverify users across their customer journey.
+
+- **Build a more holistic picture of your users**
+Make more informed decisions without going through additional integrations or procurement. Enrich users’ profiles with data from global watchlists, adverse media, and email/phone risk reports.
+
+- **Proactively catch and fight fraudsters faster**
+Uncover sophisticated fraud rings through link analysis and the ability to visualize customer networks — without investing in painful data engineering work. Bring together all the data sources you need to identify suspicious actors and ban them for good.
+
+- **Bring your data and tools into Persona**
+Connect the data partners and productivity tools you work with already with our library of no-code integrations. Enrich your users with third-party data signals and trigger follow-up actions in your favorite tools like Zendesk, Salesforce, Slack, and more.
+
+### 🔔 Stay up-to-date
+We ship new features every month. To stay in the loop, leave us a star and subscribe to our monthly newsletter. Thanks a lot! ❤️
+
+- [🚀 Getting started](https://support.withpersona.com/hc/en-us/categories/360004477914-Getting-started)
+- [Product Guide](https://support.withpersona.com/hc/en-us/categories/360004567574-Product-guide)
+- [Integrations](https://support.withpersona.com/hc/en-us/categories/360004567614-Integration)
+- [API Reference](https://docs.withpersona.com/reference/introduction)
+
+
+### ✍️ Community 
+There are many ways you can engage with Persona's Community: 
+
+- Star this repo
+- Follow us on [Twitter](https://twitter.com/persona_idv).
+- Give us a review on [Product Hunt](https://www.producthunt.com/products/persona-4)
+- Create issues every time you feel something is missing or goes wrong
+- For anything else, Ed is our Community Lead on ed@withpersona.com
+
+*If you would like to contribute to the development of the project please reach out on [Slack](withpersona-dev.slack.com)*
+
+All contributions are highly appreciated. 🙏
