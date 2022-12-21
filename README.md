@@ -11,7 +11,7 @@ If you’re planning to use our API in Production, please refer to the API Refer
 
 The most comprehensive way to integrate Persona is to setup an Embedded Flow for web or integrate with one of our Mobile SDKs, and the fastest way without any code is to setup a Hosted Flow.
 
-<a href="https://docs.withpersona.com/reference/introduction">API reference</a>
+<a href="https://docs.withpersona.com/reference/introduction">API reference</a></br>
 <a href="https://docs.withpersona.com/docs/embedded-flow">Embedded Flow</a>
 
 Questions?
